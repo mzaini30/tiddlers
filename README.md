@@ -29,8 +29,7 @@ Di sini, aku contohnya pakai `pnpm`. Kalau nggak punya `pnpm`, install dulu deng
 
 ```bash
 pnpm i degit tiddlywiki
-cd src
-pnpm degit mzaini30/tiddlers tiddlers
+pnpm degit mzaini30/tiddlers src/tiddlers
 ```
 
 Kemudian, masih di folder `src`, buatlah file `tiddlywiki.info` yang isinya:
